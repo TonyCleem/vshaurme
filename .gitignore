@@ -1,2 +1,5 @@
 # Ignore coverage files
 .idea/
+.DS_Store/
+.vscode/
+
